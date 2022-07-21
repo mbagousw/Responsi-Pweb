@@ -1,0 +1,39 @@
+.jasa {
+	background-image: url(https://pbs.twimg.com/ext_tw_video_thumb/1427234476195672066/pu/img/EuBOEm9NiP4mrpaS.jpg);
+	height: 70%;
+	width: 70%;
+	position: absolute;
+	right: 15%;
+	bottom: 25%;
+	align-items: center;
+}
+h2 {
+	color: black;
+	font-size: 20px;
+	margin-top: 30px;
+	text-align: center;
+	margin-bottom: 20px;
+	font-family: times new roman;
+}
+.content {
+	padding: 5px;
+}
+table {
+	margin: auto;
+	padding-bottom: 6%;
+}
+table td {
+	padding: 6px;
+	font-family: times new roman;
+	font-size: 15px;
+	color: black;
+}
+button {
+	font-weight: bold;
+	font-size: 10px;
+	width: 60px;
+	font-family: sans-serif;
+	height: 30px;
+	background-color: #078a32;
+	border-radius: 6px;
+}
